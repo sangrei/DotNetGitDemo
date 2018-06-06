@@ -1,0 +1,11 @@
+C:\Project\DotNet\DotNetGitDemo\DotNetGitDemo\bin\Debug\netcoreapp2.0\DotNetGitDemo.deps.json
+C:\Project\DotNet\DotNetGitDemo\DotNetGitDemo\bin\Debug\netcoreapp2.0\DotNetGitDemo.runtimeconfig.json
+C:\Project\DotNet\DotNetGitDemo\DotNetGitDemo\bin\Debug\netcoreapp2.0\DotNetGitDemo.runtimeconfig.dev.json
+C:\Project\DotNet\DotNetGitDemo\DotNetGitDemo\bin\Debug\netcoreapp2.0\DotNetGitDemo.dll
+C:\Project\DotNet\DotNetGitDemo\DotNetGitDemo\bin\Debug\netcoreapp2.0\DotNetGitDemo.pdb
+C:\Project\DotNet\DotNetGitDemo\DotNetGitDemo\obj\Debug\netcoreapp2.0\DotNetGitDemo.csprojResolveAssemblyReference.cache
+C:\Project\DotNet\DotNetGitDemo\DotNetGitDemo\obj\Debug\netcoreapp2.0\DotNetGitDemo.csproj.CoreCompileInputs.cache
+C:\Project\DotNet\DotNetGitDemo\DotNetGitDemo\obj\Debug\netcoreapp2.0\DotNetGitDemo.AssemblyInfoInputs.cache
+C:\Project\DotNet\DotNetGitDemo\DotNetGitDemo\obj\Debug\netcoreapp2.0\DotNetGitDemo.AssemblyInfo.cs
+C:\Project\DotNet\DotNetGitDemo\DotNetGitDemo\obj\Debug\netcoreapp2.0\DotNetGitDemo.dll
+C:\Project\DotNet\DotNetGitDemo\DotNetGitDemo\obj\Debug\netcoreapp2.0\DotNetGitDemo.pdb
